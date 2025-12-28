@@ -30,7 +30,7 @@ Pastikan Anda memiliki perangkat lunak berikut yang terinstal di sistem Anda:
 
 1.  **Clone repository ini:**
     ```bash
-    git clone <URL_REPOSITORY_ANDA>
+    git clone https://github.com/IlhamEl777/order.git
     cd order
     ```
 
